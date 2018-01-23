@@ -14,3 +14,4 @@ This project is a guided project from Dataquest.io
 #### build_keyword_dictionary: return a dictionary of the word frequency in a title
 #### top_keywords : sort the result from build_keyword_dictionary decreasing order then return first 100 results.
 
+## This repository contains jupyternotes that is related to data engineering and data pipeline serviced and provided by Dataquest.io
